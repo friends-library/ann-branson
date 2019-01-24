@@ -273,7 +273,7 @@ But we should remember that we are a backslidden people; the love of the world,
 the wisdom, policy, riches, pleasures, pastimes, manners,
 maxims and customs of the world, have gained ascendency and great place amongst us;
 many were following those things with avidity,
-which our worthy predecessors were led to renounce; and were trampling under 'foot,
+which our worthy predecessors were led to renounce; and were trampling under '`foot,
 or esteeming lightly those principles and testimonies for which,
 and the support of which, our early Friends suffered persecution, imprisonment and death.
 Will not the Lord judge for these things;
@@ -711,7 +711,7 @@ Next day, went to Burlington, accompanied by Charles Williams, an elder in the c
 who showed us much kindness--the Lord reward him for it. Got to
 Burlington in time to attend the Select Meeting at eleven clock;
 all strangers to me. The meeting was pretty much gathered when
-we went in. I took my seat below the ministers' gallery,
+we went in. I took my seat below the ministers`' gallery,
 but the man Friend, an elder, at whose house we put up, invited me up;
 I thought best to go. There were two communications,
 one of considerable length from a woman, in the forepart of the meeting.
@@ -1091,7 +1091,7 @@ I felt greatly relieved after this meeting and very peaceful in mind.
 Many Friends spoke affectionately to us after meeting,
 toward whom the salutation of gospel love was felt to flow without respect of persons.
 
-Dined at Henry Roberts', where many Friends came.
+Dined at Henry Roberts'`, where many Friends came.
 After dinner, had a religious opportunity with a large company.
 I encouraged the weary and heavy laden, and faint hearted, to trust in the Lord.
 
@@ -1119,7 +1119,7 @@ A woman Friend from a neighboring Quarterly Meeting,
 took up most of the time in preaching and praying.
 It was a very trying meeting to me, believing the cause was hurt by this individual.
 
-Dined at Josiah Evans'. After a religious opportunity in this family,
+Dined at Josiah Evans'`. After a religious opportunity in this family,
 went to Joseph Snowden's. He having decidedly opposed in their Quarterly Select Meeting,
 the liberty I asked,
 to visit by appointment (when not convenient to attend as they
@@ -1186,7 +1186,7 @@ but had nothing to communicate.
 Lodged at Joseph Walton's. Believing it to be required of me
 to visit the meetings in the limits of Salem Quarter,
 we set out on Second-day afternoon the 26th, for Woodbury;
-got there in the evening and lodged at Carlton Stokes'. That night I was quite ill,
+got there in the evening and lodged at Carlton Stokes'`. That night I was quite ill,
 so that I slept but little,
 and thought it not improbable that my remains might be laid there,
 being threatened with a severe turn of the dysentery.
@@ -1373,7 +1373,7 @@ be not dismayed, for I am thy God.
 I will strengthen thee; yea, I will help thee; yea,
 I will uphold thee with the right hand of my righteousness.`"
 Before a word was spoken, this language ran through my mind,
-feeling that we were permitted to realize it: "`Man did eat angels' food.`"
+feeling that we were permitted to realize it: "`Man did eat angels`' food.`"
 We parted with Elizabeth in near affection,
 and the language of Joseph ran through my mind, "`Doth my Father yet live.`"
 I found my dear aged friend alive in the Truth, and rejoicing to find those alive too,
