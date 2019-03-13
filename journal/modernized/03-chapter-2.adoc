@@ -156,6 +156,10 @@ Within my bosom secretly been heard,
 To part with all.
 ____
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Ninth Month 2nd, 1833.
 
 [.salutation]
@@ -172,12 +176,25 @@ For I do most surely believe that the more we become
 acquainted and follow the teachings of the Holy Spirit,
 the less we shall seek after or desire the honor that comes not from God only.
 My health is very precarious, and I know not how it may terminate.
-But will not the Judge of all the earth do right? From your afflicted cousin,
+But will not the Judge of all the earth do right?
+
+[.signed-section-closing]
+From your afflicted cousin,
 
 [.signed-section-signature]
 Ann Branson
 
-Ninth Month 4th.--Dear sister Lydia now attending Yearly Meeting.
+--
+
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
+Ninth Month 4th.
+
+[.salutation]
+Dear sister Lydia, now attending Yearly Meeting.
+
 You know that I am obliged to use my pen seldom and sparingly;
 but permit me to tell you that we are getting along very
 quietly and quite as comfortably as circumstances will admit.
@@ -192,10 +209,13 @@ latter be your condition at this annual gathering,
 for it is surely of the Lord`'s mercies that we are not consumed,
 because his compassions fail not.
 
+[.signed-section-closing]
 From your afflicted sister,
 
 [.signed-section-signature]
 Ann Branson
+
+--
 
 Ninth Month 23rd.
 
@@ -383,6 +403,9 @@ and found that we had passed over very dangerous ground,
 the wheels of our carriage just escaping the precipice.
 Thus, through the mercy of our Heavenly Father, we left this town in safety.
 
+[.embedded-content-document.letter]
+--
+
 [.signed-section-context-open]
 Mount Gilead, Ninth Month 20th, 1840.
 
@@ -434,6 +457,11 @@ Affectionately your daughter,
 [.signed-section-signature]
 Ann Branson
 
+--
+
+[.embedded-content-document.letter]
+--
+
 [.signed-section-context-open]
 Richmond, Indiana, Ninth Mo. 27th, 1840.
 
@@ -454,6 +482,8 @@ Pray you for us, and for me, in an especial manner.
 
 [.signed-section-signature]
 Ann Branson
+
+--
 
 30th.--Today a public meeting was held.
 I thought it was remarkably favored.
