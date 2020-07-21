@@ -275,7 +275,7 @@ Tenth Month 30th, 1835. This evening one year ago, my beloved mother died.
 The summons was very sudden.
 She retired to bed about nine o`'clock, apparently in usual health;
 between the hours of ten and eleven she awoke, and complained of pain in her breast.
-My father hastened down stairs to get something for her relief;
+My father hastened downstairs to get something for her relief;
 he returned in a short time and found her dying.
 Her death was believed to have been occasioned
 by an abscess in her side breaking inwardly.
@@ -383,7 +383,7 @@ and had one of the bedsteads placed against the door.
 During the night they found some one was trying to enter the room by pushing at the door.
 Samuel Smith then called out in a loud, stern voice, asking who was at the door,
 and what was wanted,
-saying that he had a mind to get up and go down stairs and find out what was going on,
+saying that he had a mind to get up and go downstairs and find out what was going on,
 adding,
 here is a man in bed apparently asleep (for nothing as yet seemed to
 arouse him) and for aught I know is acting the opossum.
